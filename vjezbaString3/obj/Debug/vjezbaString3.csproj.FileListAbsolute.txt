@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\vjezbaString3\bin\Debug\vjezbaString3.exe.config
+C:\Users\ucenik\source\repos\vjezbaString3\bin\Debug\vjezbaString3.exe
+C:\Users\ucenik\source\repos\vjezbaString3\bin\Debug\vjezbaString3.pdb
+C:\Users\ucenik\source\repos\vjezbaString3\obj\Debug\vjezbaString3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\vjezbaString3\obj\Debug\vjezbaString3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\vjezbaString3\obj\Debug\vjezbaString3.exe
+C:\Users\ucenik\source\repos\vjezbaString3\obj\Debug\vjezbaString3.pdb
